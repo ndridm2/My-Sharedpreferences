@@ -5,9 +5,13 @@ MySharedPreferences adalah aplikasi berbasis Kotlin yang menggunakan SharedPrefe
 
 ## 🚀 Fitur Utama
 ✅ Menyimpan data pengguna menggunakan SharedPreferences
+
 ✅ Menampilkan data pengguna di layar aplikasi
+
 ✅ Mengupdate data pengguna dengan input yang baru
+
 ✅ Membuat tampilan UI sederhana menggunakan XML Layout
+
 
 ## 🏗 Struktur Proyek
 1️⃣ Membuat project baru bernama MySharedPreferences
@@ -28,7 +32,6 @@ MVVM (Model-View-ViewModel) sederhana
 
 ## 💡 Cara Menjalankan Proyek
 1️⃣ Clone repository ini:
-
 sh
 Copy
 Edit
