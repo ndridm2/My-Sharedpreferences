@@ -11,9 +11,13 @@ MySharedPreferences adalah aplikasi berbasis Kotlin yang menggunakan SharedPrefe
 
 ## 🏗 Struktur Proyek
 1️⃣ Membuat project baru bernama MySharedPreferences
+
 2️⃣ Mengatur tampilan aplikasi dengan XML Layout
+
 3️⃣ Membuat kelas model untuk menampung sementara data pengguna
+
 4️⃣ Membuat kelas UserPreference untuk menyimpan dan mengelola data pengguna dengan SharedPreferences
+
 5️⃣ Mengimplementasikan UserPreference ke dalam Activity untuk membaca dan menyimpan data
 
 ## 🛠 Teknologi yang Digunakan
@@ -29,7 +33,9 @@ sh
 Copy
 Edit
 git clone https://github.com/username/MySharedPreferences.git
+
 2️⃣ Buka project di Android Studio
+
 3️⃣ Jalankan aplikasi di Emulator atau Perangkat Fisik
 
 ## 🎯 Kesimpulan
